@@ -68,6 +68,7 @@ int main()
 		}
 		guesses--;
 	}
+	//test
 
 	if (revealed == SIZE)
 	{
